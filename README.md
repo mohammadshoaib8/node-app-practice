@@ -118,4 +118,4 @@ http://<EC2-PUBLIC-IP>
 
 👤 Mohammad Shoaib
 💼 AWS and DevOps Engineer
-🔗 [LinkedIn](https://www.linkedin.com/in/mohammadshoaib8/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammad%20Shoaib-blue?logo=linkedin)](https://www.linkedin.com/in/mohammadshoaib8/)
