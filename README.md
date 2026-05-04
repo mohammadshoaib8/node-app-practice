@@ -107,12 +107,31 @@ Pull Latest Image
    ↓
 Restart Container 🚀
 
+---
+Step 1: Buy Domain (Optional but Recommended)
+You can use:
+👉 GoDaddy
+👉 Namecheap
+Example:
+yourapp.com
 
-📸 Output
+Step 2: Point Domain to EC2
+In domain DNS:
+Type: A Record
+Value: EC2 Public IP
 
+Step 3: Install SSL (HTTPS) 🔐
+Install:
+sudo apt install certbot python3-certbot-nginx -y
+Run:
+sudo certbot --nginx
+👉 Enter domain → it auto configures HTTPS
+
+🧠 Result
 👉 Access application via:
+https://yourapp.com
 
-http://<EC2-PUBLIC-IP>
+---
 
 🙌 Author
 
