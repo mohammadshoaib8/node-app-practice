@@ -120,6 +120,4 @@ http://<EC2-PUBLIC-IP>
 💼 AWS and DevOps Engineer
 ## 🙌 Connect with me
 
-🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/mohammadshoaib8/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammad%20Shoaib-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/mohammadshoaib8/)
