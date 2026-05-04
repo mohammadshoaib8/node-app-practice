@@ -118,6 +118,7 @@ http://<EC2-PUBLIC-IP>
 
 👤 Mohammad Shoaib
 💼 AWS and DevOps Engineer
-## 🙌 Connect with me
 
+## 🙌 Connect with me
+www.linkedin.com/in/mohammadshoaib8
 
